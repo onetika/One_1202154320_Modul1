@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">One_1202154320_Modul1</string>
+    <string name="daftarmenu_awal">Menu</string>
+    <string name="porsi_awal">Porsi</string>
+    <string name="makan_malam_header">Makan Malam</string>
+    <string name="tdk_cukup">Jangan disini makan malamnya, uang kamu tidak cukup</string>
+    <string name="cukup">Disini aja makan malamnya</string>
+</resources>
